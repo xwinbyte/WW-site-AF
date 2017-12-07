@@ -1,2 +1,1 @@
-AeroFusion's official website!
-Thank you Gellatio for the help!
+[WindowsWorld Website](https://windowsworld.us) created by AeroFusion and dnomaid, revised and edited by me!
