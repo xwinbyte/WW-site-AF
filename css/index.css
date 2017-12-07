@@ -10,7 +10,7 @@ html, body {
 	}
 
 body {
-    background-image: url("/background.png");
+    background-image: url("https://windowsworld.us/i/background.png");
     font-family: 'Nunito', sans-serif;
     overflow-x: hidden;
 }
