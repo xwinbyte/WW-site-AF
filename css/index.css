@@ -13,7 +13,7 @@ body {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-font-family: 'blogger_sanslight', cursive;
+font-family: 'Comfortaa', cursive;
     background-size: cover;
 }
 div#content {
@@ -1474,12 +1474,3 @@ a.extra-link:active {
 .slideOutUp {
     animation-name: slideOutUp;
 }
-@font-face {
-    font-family: 'blogger_sanslight';
-    src: url('https://windowsworld.us/css/fonts/bloggersans-light-webfont.woff2') format('woff2'),
-         url('https://windowsworld.us/css/fonts/bloggersans-light-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
