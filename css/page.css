@@ -12,7 +12,7 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    font-family: 'Comfortaa', sans-serif;
+    font-family: 'blogger_sanslight', sans-serif;
 }
 html {
     overflow-y: scroll;
@@ -32,7 +32,7 @@ div#container {
 div#header {
     margin-bottom: 15px;
     width: 100%;
-    font-family: 'Comfortaa', sans-serif;
+    font-family: 'blogger_sanslight', sans-serif;
     text-align: center;
     background-color: rgba(239, 239, 239, 0.35);
     color: #000;
