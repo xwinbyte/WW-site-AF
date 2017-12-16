@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/windowsworld
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://windowsworld.us
+  * I am windowsworld (https://keybase.io/windowsworld) on keybase.
+  * I have a public key ASCjIjJBrtjDTJE9a8e87w_54bHxzJxneJekKTC5SXiOTwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a3223241aed8c34c913d6bc7bcef0ff9e1b1f1cc9c677897a42930b949788e4f0a",
+      "host": "keybase.io",
+      "kid": "0120a3223241aed8c34c913d6bc7bcef0ff9e1b1f1cc9c677897a42930b949788e4f0a",
+      "uid": "5ade1d000904006e54eadea2f7ac2619",
+      "username": "windowsworld"
+    },
+    "merkle_root": {
+      "ctime": 1513462303,
+      "hash": "bacc16cab0ace6a03659a7619da7ac2d3a9b8bd40354548471438fe06b2b138965bae86018c2e1496be931834a1377ff3f1452f88227cbcbd8acf4655c15614c",
+      "hash_meta": "710a7b65e07c041ddf027d95d5baa9c3f85a36f13ad7a109195d454ed4d06628",
+      "seqno": 1827691
+    },
+    "service": {
+      "hostname": "windowsworld.us",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.37"
+  },
+  "ctime": 1513462347,
+  "expire_in": 504576000,
+  "prev": "e4dd5cf90bee5191142398c2e85da58119815f5c962b9ba4c7d5a5331ed3a875",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgoyIyQa7Yw0yRPWvHvO8P+eGx8cycZ3iXpCkwuUl4jk8Kp3BheWxvYWTFA0t7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYTMyMjMyNDFhZWQ4YzM0YzkxM2Q2YmM3YmNlZjBmZjllMWIxZjFjYzljNjc3ODk3YTQyOTMwYjk0OTc4OGU0ZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYTMyMjMyNDFhZWQ4YzM0YzkxM2Q2YmM3YmNlZjBmZjllMWIxZjFjYzljNjc3ODk3YTQyOTMwYjk0OTc4OGU0ZjBhIiwidWlkIjoiNWFkZTFkMDAwOTA0MDA2ZTU0ZWFkZWEyZjdhYzI2MTkiLCJ1c2VybmFtZSI6IndpbmRvd3N3b3JsZCJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxMzQ2MjMwMywiaGFzaCI6ImJhY2MxNmNhYjBhY2U2YTAzNjU5YTc2MTlkYTdhYzJkM2E5YjhiZDQwMzU0NTQ4NDcxNDM4ZmUwNmIyYjEzODk2NWJhZTg2MDE4YzJlMTQ5NmJlOTMxODM0YTEzNzdmZjNmMTQ1MmY4ODIyN2NiY2JkOGFjZjQ2NTVjMTU2MTRjIiwiaGFzaF9tZXRhIjoiNzEwYTdiNjVlMDdjMDQxZGRmMDI3ZDk1ZDViYWE5YzNmODVhMzZmMTNhZDdhMTA5MTk1ZDQ1NGVkNGQwNjYyOCIsInNlcW5vIjoxODI3NjkxfSwic2VydmljZSI6eyJob3N0bmFtZSI6IndpbmRvd3N3b3JsZC51cyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM3In0sImN0aW1lIjoxNTEzNDYyMzQ3LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImU0ZGQ1Y2Y5MGJlZTUxOTExNDIzOThjMmU4NWRhNTgxMTk4MTVmNWM5NjJiOWJhNGM3ZDVhNTMzMWVkM2E4NzUiLCJzZXFubyI6NSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEC9sznUwT2zKKqT1Ab6rFC9nhv93TYGkyCD136JGdvVy5kUpnqo4EDhVqTXBmlKFSk4+JqRZfKdqyfKPrIOgJECqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgTxNdeLBi2AeVcDLpQ6wpvD7WqtsaaNtJbihVsLpvxjqjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/windowsworld
+
+==================================================================
